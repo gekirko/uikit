@@ -27,7 +27,7 @@
     "browser-sync": "^2.6.5",
     "del": "^0.1.2",
     "glob": "^4.0.5",
-    "gulp": "^3.8.8",
+    "gulp": "^3.9.1",
     "gulp-concat": "^2.3.4",
     "gulp-header": "1.0.5",
     "gulp-ignore": "^1.2.0",
